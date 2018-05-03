@@ -84,6 +84,7 @@ var styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
   },
+  
 });
 
 module.exports = ImagesScreen;
